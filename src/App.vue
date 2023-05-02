@@ -9,11 +9,12 @@ export default{
 </script>
 
 <template>
-  
+
     <Project />
 
 </template>
 
 <style>
+
 
 </style>
