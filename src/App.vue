@@ -9,9 +9,9 @@ export default{
 </script>
 
 <template>
-  <div class="container">
+  
     <Project />
-  </div>
+
 </template>
 
 <style>
