@@ -11,6 +11,7 @@ export default{
 <template>
 
     <Project />
+    <RouterView></RouterView>
 
 </template>
 
